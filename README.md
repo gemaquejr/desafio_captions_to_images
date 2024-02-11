@@ -1,1 +1,1 @@
-# desafio_captions_to_images
+# Reconhecimento Facial e transformação de imagens em Dados no Azure ML
