@@ -1,0 +1,26 @@
+[
+    {
+      "image_name": "cows.png",
+      "text_results": [
+        {
+          "text": "A group of cows grazing in a field"
+        }
+      ]
+    },
+    {
+      "image_name": "statue.png",
+      "text_results": [
+        {
+          "text": "A statue of a woman holding a scale on top of a building"
+        }
+      ]
+    },
+    {
+      "image_name": "surf.png",
+      "text_results": [
+        {
+          "text": "A man holding a surfboard on a rock"
+        }
+      ]
+    }
+  ]
